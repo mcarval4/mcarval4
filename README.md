@@ -1,6 +1,10 @@
 ## Hi, I'm Matheus 👋
 
 DevOps | Cloud | Site Reliability Engineer focused on cloud-native infrastructure, automation, reliability and platform engineering.
+
+# Tech
+
+Kubernetes · Terraform · Docker · CI/CD · GitOps · Observability · AWS · Azure · GCP
 <!--
 **mcarval4/mcarval4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
