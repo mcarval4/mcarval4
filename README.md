@@ -1,8 +1,8 @@
-## Hi, I'm Matheus 👋
+# Hi, I'm Matheus 👋
 
 DevOps | Cloud | Site Reliability Engineer focused on cloud-native infrastructure, automation, reliability and platform engineering.
 
-# Tech
+## Tech
 
 Kubernetes · Terraform · Docker · CI/CD · GitOps · Observability · AWS · Azure · GCP
 <!--
